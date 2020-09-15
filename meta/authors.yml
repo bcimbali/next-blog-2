@@ -7,3 +7,6 @@ authors:
     slug: christine-kanownik
     introduction: |
       CALL ME CHRISTINE
+  - slug: john-doe
+    name: John Doe
+    introduction: John Doe Intro
